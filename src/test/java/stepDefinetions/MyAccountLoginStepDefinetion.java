@@ -32,7 +32,7 @@ public class MyAccountLoginStepDefinetion {
 
 	@When("^User clicks on account manu$")
 	public void user_clicks_on_account_manu() throws Throwable {
-		driver.findElement(By.linkText("My Account")).click();
+		driver.findElement(By.xpath("//*[@id='menu-item-50']/a")).click();
 
 	}/*
 		 * 
