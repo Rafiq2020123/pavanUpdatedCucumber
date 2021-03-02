@@ -259,7 +259,7 @@ formatter.match({
   "location": "MyAccountLoginStepDefinetion.open_the_browser()"
 });
 formatter.result({
-  "duration": 2357549200,
+  "duration": 2275800300,
   "status": "passed"
 });
 formatter.match({
@@ -272,42 +272,42 @@ formatter.match({
   "location": "MyAccountLoginStepDefinetion.user_enter_url(String)"
 });
 formatter.result({
-  "duration": 4194450700,
+  "duration": 4537213200,
   "status": "passed"
 });
 formatter.match({
   "location": "MyAccountLoginStepDefinetion.user_clicks_on_account_manu()"
 });
 formatter.result({
-  "duration": 4803591900,
+  "duration": 5178500100,
   "status": "passed"
 });
 formatter.match({
   "location": "MyAccountLoginStepDefinetion.user_enters_username(DataTable)"
 });
 formatter.result({
-  "duration": 124646200,
+  "duration": 113514800,
   "status": "passed"
 });
 formatter.match({
   "location": "MyAccountLoginStepDefinetion.user_enters_password(DataTable)"
 });
 formatter.result({
-  "duration": 287373700,
+  "duration": 119424100,
   "status": "passed"
 });
 formatter.match({
   "location": "MyAccountLoginStepDefinetion.user_clicks_on_the_login_button()"
 });
 formatter.result({
-  "duration": 2720437800,
+  "duration": 2493018100,
   "status": "passed"
 });
 formatter.match({
   "location": "MyAccountLoginStepDefinetion.user_should_be_loged_in_successfully()"
 });
 formatter.result({
-  "duration": 466851400,
+  "duration": 582762400,
   "status": "passed"
 });
 });
