@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="14.954901">
+    <testcase classname="Testing My acount-loging feature" name="Testing log-in feature with Valid username and password" time="14.954901">
+        <system-out><![CDATA[Given open the browser......................................................passed
+When User enter url " http://practice.automationtesting.in/"................passed
+And User clicks on account manu.............................................passed
+And User enters username....................................................passed
+And User enters password....................................................passed
+And User clicks on the login button.........................................passed
+Then User should be loged in successfully...................................passed
+]]></system-out>
+    </testcase>
+</testsuite>
