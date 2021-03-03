@@ -11,7 +11,7 @@ import cucumber.api.junit.Cucumber;
 		
 		features="Feature",
 		glue = "stepDefinetions",
-		
+		//tags = "@DD",
 	    format ={"pretty","html:test-output","json:json_output/cucumber.json","junit:junit_xml_output/cucumber.xml"},
 		dryRun = false,
 		 monochrome =true
